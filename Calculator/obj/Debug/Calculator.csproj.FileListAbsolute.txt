@@ -1,0 +1,48 @@
+C:\Users\joppe\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\joppe\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\joppe\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\joppe\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\App.g.cs
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\Calculator.exe
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\Calculator.pdb
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\bin\Debug\Calculator.exe
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\MainWindow.baml
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\joppe\source\repos\JK Rekenmachine v2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\bin\Debug\Calculator.exe
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\bin\Debug\Calculator.pdb
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\App.g.cs
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\MainWindow.baml
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\Calculator.exe
+C:\Users\joppe\source\repos\l4-2-rekenmachine-in-c-Joppe20003\Calculator\obj\Debug\Calculator.pdb
